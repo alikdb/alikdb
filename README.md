@@ -1,3 +1,22 @@
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+```javascript
+const ali = {
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["NodeJS", "React", "Jquery"],
+            css: ["bootstrap", "sass", "UiKit"]
+        },
+        backEnd: ["GO", "PHP", "Java"],
+        databases: ["MySql", "MariaDB", "MongoDB"],
+    }
+};
+console.log(ali);
+```
+
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=alikdb&hide=contribs,prs&count_private=true&show_icons=true)
+
 ## Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
