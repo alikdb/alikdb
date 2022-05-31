@@ -11,9 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) <br>
 ![LUA](https://img.shields.io/badge/-LUA-000000?style=flat&logo=LUA)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) <br>
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
 
 ## Tools:
 
@@ -23,3 +21,11 @@
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) ![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />
 ![](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=VisualStudioCode) ![](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=PHPStorm)<br />
 ![](https://img.shields.io/badge/-Insomnia-000000?style=flat&logo=Insomnia) ![](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman) 
+<br>
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
+<br>
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
+![bootstrap](https://img.shields.io/badge/-v-000000?style=flat&logo=bootstrap)
+
