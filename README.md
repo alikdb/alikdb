@@ -11,7 +11,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3) <br>
 ![LUA](https://img.shields.io/badge/-LUA-000000?style=flat&logo=LUA)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) <br>
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
 
 ## Tools:
 
