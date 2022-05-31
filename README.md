@@ -26,6 +26,6 @@
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000000?style=flat&logo=codeigniter)
 <br>
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
-![bootstrap](https://img.shields.io/badge/-v-000000?style=flat&logo=bootstrap)
+![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
