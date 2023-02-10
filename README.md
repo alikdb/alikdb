@@ -1,88 +1,95 @@
-### <div align="center">I'm Ali, a full-time full-stack developer 👨‍💻 working Bulutsoft since 2022 🚀</div>  
-  
+<div id="header" align="center">
+<div id="badges"></div>
+	<a href="https://www.linkedin.com/in/curtiswarcup/">
+		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://www.alisen.me/">
+		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Curtis warcup Portfolio"/>
+	</a>
+  <a href="mailto:hello@alisen.me">
+		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+	</a>
+  <img src="https://img.shields.io/github/stars/alikdb?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/>
 
-- 🔭 I’m currently working on React Apps  
-  
-
-- 🌱 I’m currently learning Phyton and Django  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
-<a href="https://www.windicss.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a>  
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/alikdb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a>
+	<img src="https://komarev.com/ghpvc/?username=alikdb&style=for-the-badge&color=89C5D2" alt="profile views"/>
 </a>
-<a href="https://twitter.com/aali_senn" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mr-ali-sen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/alisen.js" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</div>
+
+<br>
+</br>
+
+</div>
+I'm <b>Ali</b>, a Full Stack Web Developer from Antalya, Turkey 🇹🇷
+
+- ⚡️ In my free time I enjoy making custom mechanical keyboards, football and cycling.
+- 🐶 Ask me about keyboard mods, cycling, or anything else!
+- 👨🏼‍💻 Currently working on a Netflix clone with Next.js.
+- ✉️ Contact me by [email]('hello@alisen.me')
+
+## Languages and Tools
+
+<p>
+  <img title="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescipt" />
+  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind css" />
+  <img title="Nextjs" width="25px" src="https://imgur.com/hPofQoP.png" alt="next.js" />
+  <img title="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img title="redux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
+  <img title="postgresql" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img title="Firebase" width="25px" src="https://i.imgur.com/ySmf4g5.png" alt="Firebase" />
+  <img title="Node.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" />
+  <img title="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+  <img title="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+  <img title="Sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" />
+  <img title="JavaScript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img title="bootstrap" width="25px" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstap" />                    
+  <img title="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="github" />
+  <img title="go" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" />       
+  <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" alt="Express" />            
+  <img title="jets" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="Test" />
+  <img title="jquery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" />
+  <img title="eslint" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg#gh-dark-mode-only" alt="ESlint" />
+  <img title="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
+  <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Github" /> 
+</p>
   
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alikdb&theme=tokyonight&show_icons=true" alt="Curtis Warcups Github Stats" />
+</details>
 
-<br/>  
+<details>
+  <summary>📈 Github Activity Graph</summary>
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alikdb&theme=tokyo-night" alt="Oops, something went wrong with Activity Graph" />
+</details>
 
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=alikdb&theme=tokyonight" alt="Oops, something went wrong with Github streaks stats. Sorry!" />
+</details>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alikdb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<details>
+  <summary>🌐 Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikdb&theme=tokyonight" alt="Oops, something went wrong with most used languages graph. Sorry!" />
+</details>
 
-<br/>  
+<details>
+<summary>
+⏰ Code Time Stats
+</summary>
+<br>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0x4h596fd5b4nqciek25un4xy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" /></div>  
+<!--START_SECTION:waka-->
 
-<br/>  
+📊 **This Week I Spent My Time On**
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alikdb&&style=flat-square" align="center" />
-</div>  
+<!--END_SECTION:waka-->
 
-<br />
+</detail>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0x4h596fd5b4nqciek25un4xy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" /></div>
