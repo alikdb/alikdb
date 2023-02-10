@@ -86,8 +86,6 @@ I'm <b>Ali</b>, a Full Stack Web Developer from Antalya, Turkey 🇹🇷
 
 <!--START_SECTION:waka-->
 
-📊 **This Week I Spent My Time On**
-
 <!--END_SECTION:waka-->
 
 </details>
