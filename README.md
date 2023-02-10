@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <div id="badges"></div>
-	<a href="https://www.linkedin.com/in/curtiswarcup/">
+	<a href="https://www.linkedin.com/in/mr-ali-sen/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 	<a href="https://www.alisen.me/">
@@ -90,6 +90,10 @@ I'm <b>Ali</b>, a Full Stack Web Developer from Antalya, Turkey 🇹🇷
 
 <!--END_SECTION:waka-->
 
-</detail>
+</details>
+
+<div align="center">
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0x4h596fd5b4nqciek25un4xy&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=000000&bar_color_cover=true" /></div>
+
+</div>
