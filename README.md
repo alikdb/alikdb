@@ -89,9 +89,7 @@ I'm <b>Ali</b>, a Full Stack Web Developer from Antalya, Turkey 🇹🇷
 
 ```text
 💬 Programming Languages: 
-JavaScript               41 mins             █████████████████████████   99.18 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 ```
 
 
