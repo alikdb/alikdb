@@ -89,7 +89,7 @@ I'm <b>Ali</b>, a Full Stack Web Developer from Antalya, Turkey 🇹🇷
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████████   100.00 % 
 ```
 
 
