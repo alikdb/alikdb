@@ -2,7 +2,7 @@
 	<a href="https://www.linkedin.com/in/mr-ali-sen/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
-	<a href="https://www.alisen.me/">
+	<a href="https://alisen.me/">
 		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Curtis warcup Portfolio"/>
 	</a>
   <a href="mailto:hello@alisen.me">
